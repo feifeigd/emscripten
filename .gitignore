@@ -10,6 +10,11 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.ipch
+
+*.opensdf
+*.sdf
+*.suo
 
 # Compiled Dynamic libraries
 *.so
